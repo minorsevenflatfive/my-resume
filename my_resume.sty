@@ -1,10 +1,20 @@
 \ProvidesPackage{my_resume}
 
 \usepackage[utf8]{inputenc}
-\usepackage[a4paper, total={6in, 9in}]{geometry}
+\usepackage{geometry}
 \usepackage{subfiles}
 \usepackage{enumitem}  
 \usepackage{titlesec}
+\usepackage{paracol}
+% \usepackage{setspace}
+% \setstretch{1.1}
+\usepackage{ragged2e}
+\justifying
+
+\geometry {
+a4paper,
+total={170mm,250mm}
+}
 
 \thispagestyle{empty}
 
@@ -15,7 +25,7 @@
 \newcommand{\innerlist}[1]{
     \begin{itemize}[topsep=0pt] #1 \end{itemize}}
     
-\newcommand{\entry}[1]{\item\small{#1}}
+\newcommand{\entry}[1]{\item{#1}}
 \newcommand{\entrybig}[5][]{\item[#1]
     \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
     #2 & #3 \\ {\small#4} & {\small #5} \\ \end{tabular*}}
