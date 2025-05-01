@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1741963711.17454 "/Users/nararya/workspace/programming/my-resume/main.tex" "main.pdf" "main" 1741963711.58466 0
-  "/Users/nararya/workspace/programming/my-resume/main.tex" 1741962954.62757 271 c8476087e61d8b0c9c0a424614e6768b ""
+["pdflatex"] 1744964951.67973 "/Users/nararya/workspace/programming/my-resume/main.tex" "main.pdf" "main" 1744964952.11437 0
+  "/Users/nararya/workspace/programming/my-resume/main.tex" 1744964917.7219 298 934b075bd2cac11015929e53ba44f3de ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/jknappen/ec/tcrm1000.tfm" 1136768653 1536 e07581a4bb3136ece9eeb4c3ffab8233 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
@@ -29,14 +29,15 @@
   "/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1713076388.63171 5467645 128b85b7cde5f5edc5cb7f1dd7ff8736 ""
   "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1713076252 8221423 ded403f8716fd93d86f69006d4717c8d ""
   "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
-  "main.aux" 1741963711.55089 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
-  "main.tex" 1741962954.62757 271 c8476087e61d8b0c9c0a424614e6768b ""
+  "main.aux" 1744964952.08029 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "main.tex" 1744964917.7219 298 934b075bd2cac11015929e53ba44f3de ""
   "my_resume.sty" 1741963623.59393 785 6ecade569efff1de57772e683fc90c7c ""
   "section/education.tex" 1741963099.23732 608 874d38a9a8ddc4ba369a014910623cda ""
   "section/experience.tex" 1741963230.02204 1924 4fdf04295bfe05c7850f1b6d7d5b3cca ""
   "section/header.tex" 1698836271.13772 171 5096905695799e5fa2592385232ef4d9 ""
+  "section/language.tex" 1744964951.44908 168 4c44d90492ea793bbf17ef0cbd8de49b ""
   "section/project.tex" 1741961796.52013 442 d540d5e7bf92e073041d0d41f4cdcb12 ""
-  "section/skill.tex" 1741963710.95576 319 7c82f1870927ce25d9a3abc675b85d7a ""
+  "section/skill.tex" 1744964823.49953 307 f067e2eee488b25d264949f8123b00e2 ""
   (generated)
   "main.aux"
   "main.log"
